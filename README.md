@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👨‍💻 Find my work on [Gitlab](https://gitlab.com/matthewjk)
+- 💼 Connect with me on [Linkedin](https://www.linkedin.com/in/matouskundrik/)
+
 <!--
 **MatousKundrik/MatousKundrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
